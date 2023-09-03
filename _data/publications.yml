@@ -5,6 +5,7 @@ main:
     conference_short: Journal of Experimental Psychology: Learning, Memory, and Cognition
     conference: JEP:LMC, 2023.
     pdf: https://pubmed.ncbi.nlm.nih.gov/37561512/
+    code: https://osf.io/7dzta/?view_only=04a2c177e2564b27a6699cde4ce5bbdd
     image: ./assets/img/Complexity.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
