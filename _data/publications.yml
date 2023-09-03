@@ -2,8 +2,8 @@ main:
 
   - title: "The role of cognitive control and referential complexity on adults' choice of referring expressions: Testing and expanding the referential complexity scale"
     authors: <strong>Long, M.</strong>, Rohde, H., Oraa-Ali, M., Rubio-Fernández, P.
-    conference_short: JEP:LMC
-    conference: Journal of Experimental Psychology: Learning, Memory, and Cognition, 2023.
+    conference_short: Journal of Experimental Psychology: Learning, Memory, and Cognition
+    conference: JEP:LMC, 2023.
     pdf: https://pubmed.ncbi.nlm.nih.gov/37561512/
     image: ./assets/img/Complexity.png
 
