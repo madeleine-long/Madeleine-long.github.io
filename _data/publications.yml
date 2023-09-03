@@ -5,7 +5,7 @@ main:
     conference_short: JEPLMC
     conference: Journal of Experimental Psychology: Learning, Memory, and Cognition
     pdf: https://pubmed.ncbi.nlm.nih.gov/37561512/
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/Complexity.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
