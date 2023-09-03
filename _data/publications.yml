@@ -8,6 +8,18 @@ main:
     code: https://osf.io/7dzta/?view_only=04a2c177e2564b27a6699cde4ce5bbdd
     image: ./assets/img/Complexity.png
 
+
+     - title: "ChilChildren’s acquisition of new/given markers in English, Hindi, Mandinka and Spanish: Exploring the effect of optionality during grammaticalization"
+    authors: Vishakha Shukla, <strong>Madeleine Long</strong>, Paula Rubio-Fernández
+    conference_short: Glossa Psycholinguistics
+    conference: Glossa Psycholinguistics, 2022.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
+
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
