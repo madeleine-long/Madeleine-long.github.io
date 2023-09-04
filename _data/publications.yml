@@ -65,6 +65,14 @@ main:
     code: https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1366728919000749/resource/name/S1366728919000749sup001.pdf
     image: ./assets/img/GraphBLC.png
 
+  - title: "The lifelong interplay between language and cognition: from language learning to perspective-taking, new insights into the ageing mind"
+    authors: <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Hannah Rohde, Antonella Sorace, Thomas Bak
+    conference_short: PhD Thesis
+    conference: PhD Thesis, Edinburgh University, 2018.
+    pdf: https://era.ed.ac.uk/bitstream/handle/1842/31398/Long2018.pdf?sequence=1
+    code: https://era.ed.ac.uk/bitstream/handle/1842/31398/Long2018.pdf?sequence=1
+    image: ./assets/img/PhD.png
+
     
 
 
