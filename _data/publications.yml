@@ -46,7 +46,6 @@ main:
     conference_short: Child Dev.
     conference: Child Development, 2021.
     pdf: https://doi.org/10.1111/cdev.13507
-    code: https://srcd.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fcdev.13507&file=cdev13507-sup-0001-AppendixS1.pdf
     image: ./assets/img/Graph.png
 
   - title: "The pressure to communicate efficiently continues to shape language use later in life"
@@ -54,7 +53,6 @@ main:
     conference_short: Sci. Reports
     conference: Scientific Reports, 2020.
     pdf: https://www.nature.com/articles/s41598-020-64475-6
-    code: https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-64475-6/MediaObjects/41598_2020_64475_MOESM1_ESM.pdf
     image: ./assets/img/Polychrome.png
 
   - title: "Understudied factors contributing to variability in cognitive performance related to language learning"
@@ -62,7 +60,6 @@ main:
     conference_short: BLC
     conference: Bilingualism: Language and Cognition, 2020.
     pdf: https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/understudied-factors-contributing-to-variability-in-cognitive-performance-related-to-language-learning/30399A7E468E208076E20189222E3652
-    code: https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1366728919000749/resource/name/S1366728919000749sup001.pdf
     image: ./assets/img/GraphBLC.png
 
   - title: "The lifelong interplay between language and cognition: from language learning to perspective-taking, new insights into the ageing mind"
@@ -70,7 +67,6 @@ main:
     conference_short: PhD Thesis
     conference: PhD Thesis, Edinburgh University, 2018.
     pdf: https://era.ed.ac.uk/bitstream/handle/1842/31398/Long2018.pdf?sequence=1
-    code: https://era.ed.ac.uk/bitstream/handle/1842/31398/Long2018.pdf?sequence=1
     image: ./assets/img/PhD.png
 
   - title: "Individual differences in switching and inhibition predict perspective-taking across the lifespan"
@@ -78,7 +74,6 @@ main:
     conference_short: Cognition
     conference: Cognition, 2018.
     pdf: https://linkinghub.elsevier.com/retrieve/pii/S001002771730241X
-    code: https://ars.els-cdn.com/content/image/1-s2.0-S001002771730241X-mmc1.pdf
     image: ./assets/img/Occluder.png
 
   - title: "Novelty, challenge, and practice: the impact of intensive language learning on attentional functions"
@@ -86,5 +81,4 @@ main:
     conference_short: PLoS ONE
     conference: PLoS ONE, 2016.
     pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153485
-    code: https://doi.org/10.1371/journal.pone.0153485.s002
     image: ./assets/img/Table.png
