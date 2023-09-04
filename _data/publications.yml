@@ -33,6 +33,14 @@ main:
     code: https://osf.io/xh8mk/
     image: ./assets/img/Categorization.png
 
+  - title: "Contrast perception as a visual heuristic in the formulation of referential expressions"
+    authors: Vishakha Shukla, <strong>Madeleine Long</strong>, Vrinda Bhatia, Paula Rubio-Fernández
+    conference_short: Cognition
+    conference: Cognition, 2021.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0010027721003000?via%3Dihub
+    code: https://osf.io/z86vr/
+    image: ./assets/img/Contrast.png
+
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
