@@ -15,7 +15,7 @@ main:
     conference: Glossa Psych, 2022.
     pdf: https://escholarship.org/uc/item/13x9m1qj
     code: https://osf.io/gq342/
-    image: ./assets/img/NewGiven.png
+    image: ./assets/img/NewGiven1.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
