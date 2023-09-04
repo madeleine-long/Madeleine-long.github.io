@@ -3,7 +3,7 @@ main:
   - title: "The role of cognitive control and referential complexity on adults' choice of referring expressions: Testing and expanding the referential complexity scale"
     authors: <strong>Madeleine Long</strong>, Hannah Rohde, Michelle Oraa-Ali, Paula Rubio-Fernández
     conference_short: JEP:LMC
-    conference: Journal of Experimental Psychology: Learning, Memory, and Cognition, 2023.
+    conference: JEP:LMC, 2023.
     pdf: https://pubmed.ncbi.nlm.nih.gov/37561512/
     code: https://osf.io/7dzta/?view_only=04a2c177e2564b27a6699cde4ce5bbdd
     image: ./assets/img/Complexity.png
@@ -28,10 +28,18 @@ main:
   - title: "Some Sentences Prime Pragmatic Reasoning in the Verification and Evaluation of Comparisons"
     authors: Vishakha Shukla, <strong>Madeleine Long</strong>, Vrinda Bhatia, Paula Rubio-Fernández
     conference_short: JEP:LMC
-    conference: Journal of Experimental Psychology: Learning, Memory, and Cognition, 2022.
+    conference: JEP:LMC, 2022.
     pdf: https://psycnet.apa.org/fulltext/2021-88906-001.html
     code: https://osf.io/xh8mk/
     image: ./assets/img/Categorization.png
+
+  - title: "Contrast perception as a visual heuristic in the formulation of referential expressions"
+    authors: Vishakha Shukla, <strong>Madeleine Long</strong>, Vrinda Bhatia, Paula Rubio-Fernández
+    conference_short: Cognition
+    conference: Cognition, 2021.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0010027721003000?via%3Dihub
+    code: https://osf.io/z86vr/
+    image: ./assets/img/Contrast.png
 
   - title: "Contrast perception as a visual heuristic in the formulation of referential expressions"
     authors: Vishakha Shukla, <strong>Madeleine Long</strong>, Vrinda Bhatia, Paula Rubio-Fernández
