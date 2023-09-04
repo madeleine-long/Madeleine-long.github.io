@@ -46,7 +46,7 @@ main:
     conference_short: Child Dev.
     conference: Child Development, 2021.
     pdf: https://doi.org/10.1111/cdev.13507
-    code: hhttps://srcd.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fcdev.13507&file=cdev13507-sup-0001-AppendixS1.pdf
+    code: https://srcd.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fcdev.13507&file=cdev13507-sup-0001-AppendixS1.pdf
     image: ./assets/img/Graph.png
 
   - title: "The pressure to communicate efficiently continues to shape language use later in life"
