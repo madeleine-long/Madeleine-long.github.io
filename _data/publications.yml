@@ -53,7 +53,7 @@ main:
     conference_short: Sci. Reports
     conference: Scientific Reports, 2020.
     pdf: https://www.nature.com/articles/s41598-020-64475-6
-    image: ./assets/img/Polychrome.png
+    image: ./assets/img/Efficiency.png
 
   - title: "Understudied factors contributing to variability in cognitive performance related to language learning"
     authors: <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Hannah Rohde, Antonella Sorace, Thomas H. Bak
