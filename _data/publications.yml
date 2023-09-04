@@ -17,6 +17,14 @@ main:
     code: https://osf.io/gq342/
     image: ./assets/img/NewGiven1.png
 
+  - title: "Visual perspective taking is not automatic in a simplified Dot task: evidence from newly sighted children, primary school children and adults"
+    authors: Paula Rubio-Fernández, <strong>Madeleine Long</strong>, Vishakha Shukla, Vrinda Bhatia, Pawan Sinha
+    conference_short: Neuropsychologia
+    conference: Neuropsychologia, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0028393222001154?via%3Dihub
+    code: https://osf.io/ew2bp/
+    image: ./assets/img/NeuropsychPaper.png
+
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
