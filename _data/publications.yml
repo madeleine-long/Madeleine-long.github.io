@@ -25,6 +25,15 @@ main:
     code: https://osf.io/ew2bp/
     image: ./assets/img/NeuropsychPaper.png
 
+  - title: "Some Sentences Prime Pragmatic Reasoning in the Verification and Evaluation of Comparisons"
+    authors: Vishakha Shukla, <strong>Madeleine Long</strong>, Vrinda Bhatia, Paula Rubio-Fernández
+    conference_short: JEP:LMC
+    conference: Journal of Experimental Psychology: Learning, Memory, and Cognition, 2022.
+    pdf: https://psycnet.apa.org/fulltext/2021-88906-001.html
+    code: https://osf.io/xh8mk/
+    image: ./assets/img/Categorization.png
+
+
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
