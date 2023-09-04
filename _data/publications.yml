@@ -7,7 +7,7 @@ main:
     pdf: https://pubmed.ncbi.nlm.nih.gov/37561512/
     code: https://osf.io/7dzta/?view_only=04a2c177e2564b27a6699cde4ce5bbdd
     image: ./assets/img/Complexity.png
-
+    
 
   - title: "Children’s acquisition of new/given markers in English, Hindi, Mandinka and Spanish: Exploring the effect of optionality during grammaticalization"
     authors: Vishakha Shukla, <strong>Madeleine Long</strong>, Paula Rubio-Fernández
@@ -58,7 +58,7 @@ main:
     image: ./assets/img/Polychrome.png
 
   - title: "Understudied factors contributing to variability in cognitive performance related to language learning"
-    authors: <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Hannah Rohde, Antonella Sorace, Thomas Bak
+    authors: <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Hannah Rohde, Antonella Sorace, Thomas H. Bak
     conference_short: BLC
     conference: Bilingualism: Language and Cognition, 2020.
     pdf: https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/understudied-factors-contributing-to-variability-in-cognitive-performance-related-to-language-learning/30399A7E468E208076E20189222E3652
@@ -66,7 +66,7 @@ main:
     image: ./assets/img/GraphBLC.png
 
   - title: "The lifelong interplay between language and cognition: from language learning to perspective-taking, new insights into the ageing mind"
-    authors: <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Hannah Rohde, Antonella Sorace, Thomas Bak
+    authors: <strong>Madeleine Long</strong>
     conference_short: PhD Thesis
     conference: PhD Thesis, Edinburgh University, 2018.
     pdf: https://era.ed.ac.uk/bitstream/handle/1842/31398/Long2018.pdf?sequence=1
@@ -81,16 +81,10 @@ main:
     code: https://ars.els-cdn.com/content/image/1-s2.0-S001002771730241X-mmc1.pdf
     image: ./assets/img/Occluder.png
 
-    
-
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Novelty, challenge, and practice: the impact of intensive language learning on attentional functions"
+    authors: Thomas H. Bak, <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Antonella Sorace
+    conference_short: PLoS ONE
+    conference: PLoS ONE, 2016.
+    pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153485
+    code: https://doi.org/10.1371/journal.pone.0153485.s002
+    image: ./assets/img/Table.png
