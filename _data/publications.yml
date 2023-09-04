@@ -48,10 +48,7 @@ main:
     pdf: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13507
     image: ./assets/img/Graph.png
 
-
-
-
-    - title: "The pressure to communicate efficiently continues to shape language use later in life"
+  - title: "The pressure to communicate efficiently continues to shape language use later in life"
     authors: <strong>Madeleine Long</strong>, Hannah Rohde, Paula Rubio-Fernández
     conference_short: Sci. Reports
     conference: Scientific Reports, 2020.
@@ -65,7 +62,7 @@ main:
     pdf: https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/understudied-factors-contributing-to-variability-in-cognitive-performance-related-to-language-learning/30399A7E468E208076E20189222E3652
     image: ./assets/img/GraphBLC.png
 
-- title: "The lifelong interplay between language and cognition: from language learning to perspective-taking, new insights into the ageing mind"
+  - title: "The lifelong interplay between language and cognition: from language learning to perspective-taking, new insights into the ageing mind"
     authors: <strong>Madeleine Long</strong>
     conference_short: PhD Thesis
     conference: PhD Thesis, Edinburgh University, 2018.
