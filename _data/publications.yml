@@ -74,3 +74,10 @@ main:
     conference: Cognition, 2018.
     pdf: https://linkinghub.elsevier.com/retrieve/pii/S001002771730241X
     image: ./assets/img/Occluder.png
+
+  - title: "Novelty, challenge, and practice: the impact of intensive language learning on attentional functions"
+    authors: Thomas Bak, <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Antonella Sorace
+    conference_short: PLoS ONE
+    conference: PLoS ONE, 2016.
+    pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153485
+    image: ./assets/img/Table.png
