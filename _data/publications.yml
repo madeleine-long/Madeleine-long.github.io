@@ -54,6 +54,13 @@ main:
     pdf: https://www.nature.com/articles/s41598-020-64475-6
     image: ./assets/img/Efficiency.png
 
+  - title: "Understudied factors contributing to variability in cognitive performance related to language learning"
+    authors: <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Hannah Rohde, Antonella Sorace, Thomas H. Bak
+    conference_short: BLC
+    conference: Bilingualism Language and Cognition, 2020.
+    pdf: https://www.research.ed.ac.uk/en/publications/understudied-factors-contributing-to-variability-in-cognitive-per
+    image: ./assets/img/GraphBLC.png
+
   - title: "The lifelong interplay between language and cognition: from language learning to perspective-taking, new insights into the ageing mind"
     authors: <strong>Madeleine Long</strong>
     conference_short: PhD Thesis
