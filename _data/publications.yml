@@ -44,6 +44,7 @@ main:
     authors: <strong>Madeleine Long</strong>, Vishakha Shukla, Paula Rubio-Fernández
     conference_short: Child Dev.
     conference: Child Development, 2021.
+    code: https://srcd.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fcdev.13507&file=cdev13507-sup-0001-AppendixS1.pdf
     pdf: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13507
     image: ./assets/img/Graph.png
 
@@ -51,6 +52,7 @@ main:
     authors: <strong>Madeleine Long</strong>, Hannah Rohde, Paula Rubio-Fernández
     conference_short: Sci. Reports
     conference: Scientific Reports, 2020.
+    code: https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-64475-6/MediaObjects/41598_2020_64475_MOESM1_ESM.pdf
     pdf: https://www.nature.com/articles/s41598-020-64475-6
     image: ./assets/img/Efficiency.png
 
