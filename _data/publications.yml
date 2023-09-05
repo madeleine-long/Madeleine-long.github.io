@@ -60,6 +60,7 @@ main:
     authors: <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Hannah Rohde, Antonella Sorace, Thomas H. Bak
     conference_short: Biling. Lang. Cogn.
     conference: Bilingualism Language and Cognition, 2020.
+    code: https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1366728919000749/resource/name/S1366728919000749sup001.pdf
     pdf: https://www.research.ed.ac.uk/en/publications/understudied-factors-contributing-to-variability-in-cognitive-per
     image: ./assets/img/GraphBLC.png
 
@@ -74,6 +75,7 @@ main:
     authors: <strong>Madeleine Long</strong>, Hannah Rohde, Antonella Sorace, William S. Horton
     conference_short: Cognition
     conference: Cognition, 2018.
+    code: https://ars.els-cdn.com/content/image/1-s2.0-S001002771730241X-mmc1.pdf
     pdf: https://linkinghub.elsevier.com/retrieve/pii/S001002771730241X
     image: ./assets/img/Occluder.png
 
@@ -81,5 +83,6 @@ main:
     authors: Thomas Bak, <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Antonella Sorace
     conference_short: PLoS ONE
     conference: PLoS ONE, 2016.
+    code: https://doi.org/10.1371/journal.pone.0153485.s002
     pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153485
     image: ./assets/img/Table.png
