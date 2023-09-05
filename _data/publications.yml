@@ -54,7 +54,7 @@ main:
     pdf: https://www.nature.com/articles/s41598-020-64475-6
     image: ./assets/img/Efficiency.png
 
-- title: "The lifelong interplay between language and cognition: from language learning to perspective-taking, new insights into the ageing mind"
+  - title: "The lifelong interplay between language and cognition: from language learning to perspective-taking, new insights into the ageing mind"
     authors: <strong>Madeleine Long</strong>
     conference_short: PhD Thesis
     conference: PhD Thesis, Edinburgh University, 2018.
