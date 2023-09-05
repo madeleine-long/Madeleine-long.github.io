@@ -31,3 +31,11 @@ main:
     pdf: https://psycnet.apa.org/fulltext/2021-88906-001.html
     code: https://osf.io/xh8mk/
     image: ./assets/img/Categorization.png
+
+  - title: "Contrast perception as a visual heuristic in the formulation of referential expressions"
+    authors: <strong>Madeleine Long</strong>, Isabelle Moore, Francis Mollica, Paula Rubio-Fernández
+    conference_short: Cognition
+    conference: Cognition, 2021.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0010027721003000?via%3Dihub
+    code: https://osf.io/z86vr/
+    image: ./assets/img/Contrast1.png
