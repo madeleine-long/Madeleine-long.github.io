@@ -47,3 +47,38 @@ main:
     conference: Child Development, 2021.
     pdf: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13507
     image: ./assets/img/Graph.png
+
+      - title: "The pressure to communicate efficiently continues to shape language use later in life"
+    authors: <strong>Madeleine Long</strong>, Hannah Rohde, Paula Rubio-Fernández
+    conference_short: Sci. Reports
+    conference: Scientific Reports, 2020.
+    pdf: https://www.nature.com/articles/s41598-020-64475-6
+    image: ./assets/img/Efficiency.png
+
+  - title: "Understudied factors contributing to variability in cognitive performance related to language learning"
+    authors: <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Hannah Rohde, Antonella Sorace, Thomas H. Bak
+    conference_short: BLC
+    conference: Bilingualism Language and Cognition, 2020.
+    pdf: https://www.research.ed.ac.uk/en/publications/understudied-factors-contributing-to-variability-in-cognitive-per
+    image: ./assets/img/GraphBLC.png
+
+    - title: "The lifelong interplay between language and cognition: from language learning to perspective-taking, new insights into the ageing mind"
+    authors: <strong>Madeleine Long</strong>
+    conference_short: PhD Thesis
+    conference: PhD Thesis, Edinburgh University, 2018.
+    pdf: https://era.ed.ac.uk/bitstream/handle/1842/31398/Long2018.pdf?sequence=1
+    image: ./assets/img/PhD.png
+
+  - title: "Individual differences in switching and inhibition predict perspective-taking across the lifespan"
+    authors: <strong>Madeleine Long</strong>, Hannah Rohde, Antonella Sorace, William S. Horton
+    conference_short: Cognition
+    conference: Cognition, 2018.
+    pdf: https://linkinghub.elsevier.com/retrieve/pii/S001002771730241X
+    image: ./assets/img/Occluder.png
+
+  - title: "Novelty, challenge, and practice: the impact of intensive language learning on attentional functions"
+    authors: Thomas H. Bak, <strong>Madeleine Long</strong>, Mariana Vega-Mendoza, Antonella Sorace
+    conference_short: PLoS ONE
+    conference: PLoS ONE, 2016.
+    pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153485
+    image: ./assets/img/Table.png
