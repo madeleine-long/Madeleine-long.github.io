@@ -46,3 +46,10 @@ main:
     conference: Child Development, 2021.
     pdf: https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13507
     image: ./assets/img/Graph.png
+
+  - title: "The pressure to communicate efficiently continues to shape language use later in life"
+    authors: <strong>Madeleine Long</strong>, Hannah Rohde, Paula Rubio-Fernández
+    conference_short: Sci. Reports
+    conference: Scientific Reports, 2020.
+    pdf: https://www.nature.com/articles/s41598-020-64475-6
+    image: ./assets/img/Efficiency.png
