@@ -15,7 +15,6 @@ My research programme, **<i>lifespan pragmatics</i>**, addresses questions at th
 
 ## News
 
-- **[November 23, 2023]** Upcoming talk at NHS Research Scotland Patient and Public Involvement group
 - **[November 10, 2023]** Upcoming talk at SCAN (Scottish Cognitive Ageing Network) meeting 
 - **[September 17, 2023]** Poster presentation at <a href="https://www.uni-saarland.de/fakultaet-mi/indiprag.html">IndiPRAG</a> <a href="https://osf.io/m2hca">(abstract)</a> 
 - **[September 13, 2023]** Poster presentation at <a href="https://www.gespin2023.nl">GeSpIn</a> <a href="https://osf.io/52usd">(abstract)</a>
