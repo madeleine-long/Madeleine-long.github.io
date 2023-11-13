@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a Marie Skłodowska-Curie postdoctoral research fellow at the <a href="https://www.ed.ac.uk/ppls">University of Edinburgh</a> working on the project **GRASP: Greater Awareness of Social Pragmatics in Ageing** with <a href="https://www.ed.ac.uk/profile/sarah-e-macpherson">Sarah MacPherson</a> (dedicated website coming soon).
+I'm a Marie Skłodowska-Curie postdoctoral research fellow at the <a href="https://www.ed.ac.uk/ppls">University of Edinburgh</a> working on the project **GRASP: Greater Awareness of Social Pragmatics in Ageing** with <a href="https://www.ed.ac.uk/profile/sarah-e-macpherson">Sarah MacPherson</a>.
 
 Prior to this, I was a postdoc at the <a href="https://www.mpi.nl">Max Planck Institute for Psycholinguistics</a> (examining multimodal communication in interactive settings using portable eye-tracking with <a href="https://www.mpi.nl/people/rubio-fernandez-paula">Paula Rubio-Fernández</a> and <a href="https://www.mpi.nl/people/ozyurek-asli">Aslı Özyürek</a>) and a postdoc at the <a href="https://www.uio.no/english/">University of Oslo</a> (exploring referential communication across the lifespan, across clinical and non-clinical populations, and cross-linguistically with <a href="https://www.mpi.nl/people/rubio-fernandez-paula">Paula Rubio-Fernández</a> and <a href="http://www.lel.ed.ac.uk/~hrohde/">Hannah Rohde</a>).
 
