@@ -15,7 +15,7 @@ My research programme, **<i>lifespan pragmatics</i>**, addresses questions at th
 
 ## News
 
-- **[March 1, 2024]** New paper published in <a href="https://www.apa.org/pubs/journals/dev"> Developmental Psychology </a> <a href="[https://pubmed.ncbi.nlm.nih.gov/37561512/](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fdev0001725)">(link)</a>
+- **[March 1, 2024]** New paper published in <a href="https://www.apa.org/pubs/journals/dev"> Developmental Psychology </a> <a href="[https://pubmed.ncbi.nlm.nih.gov/37561512/]">(link)</a>
 - **[November 23, 2023]** Talk at <a href="https://www.nhsresearchscotland.org.uk/research-areas/primary-care/get-involved">
   NRS Patient and Public Involvement Group</a> meeting
 - **[November 10, 2023]** Talk at <a href="https://sites.google.com/view/scottishcognitiveageingnetwork/contact"> Scottish Cognitive Ageing Network</a> meeting
