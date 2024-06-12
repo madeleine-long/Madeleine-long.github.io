@@ -15,7 +15,7 @@ My research programme, **<i>lifespan pragmatics</i>**, addresses questions at th
 
 ## News
  
-- **[May, 2024]** New articles published in <a href="[https://www.apa.org/pubs/journals/dev](https://escholarship.org/uc/cognitivesciencesociety)"> Proceedings of the Annual Meeting of the Cognitive Science Society</a> (<a href="https://escholarship.org/uc/item/58d3b3vv)">Article 1</a>) (<a href="https://escholarship.org/uc/item/6p44s5dv)">Article 2</a>)
+- **[May, 2024]** New articles published in <a href="https://escholarship.org/uc/cognitivesciencesociety"> Proceedings of the Annual Meeting of the Cognitive Science Society</a> (<a href="https://escholarship.org/uc/item/58d3b3vv)">Article 1</a>) (<a href="https://escholarship.org/uc/item/6p44s5dv)">Article 2</a>)
 - **[March, 2024]** New paper published in <a href="https://www.apa.org/pubs/journals/dev"> Developmental Psychology</a> (<a href="https://psycnet.apa.org/record/2024-59698-002">Link</a>) 
 
 
