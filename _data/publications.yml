@@ -1,28 +1,28 @@
 main:
 
-- title: "Beyond typicality: Lexical category affects the use and processing of color words"
-    authors: <strong>Madeleine Long</strong>, Paula Rubio-Fernández
-    conference_short: Cog. Sci. 
-    conference: Proceedings of the Annual Meeting of the Cognitive Science Society 46, 2024.
-    pdf: https://escholarship.org/uc/item/58d3b3vv
-    code: https://escholarship.org/uc/item/58d3b3vv
-    image: ./assets/img/Color2.png
-
-- title: "Multimodal communication in newly sighted children: An investigation of the relation between visual experience and pragmatic development"
-    authors: Paula Rubio-Fernández, <strong>Madeleine Long</strong>, Vishakha Shukla, Vrinda Bhatia, Anwesha Mahapatra, Chetan Ralekar, Shlomit Ben-Ami, Pawan Sinha
-    conference_short: Cog. Sci. 
-    conference: Proceedings of the Annual Meeting of the Cognitive Science Society 46, 2024.
-    pdf: https://escholarship.org/uc/item/6p44s5dv
-    code: https://escholarship.org/uc/item/6p44s5dv
-    image: ./assets/img/Prakash.png
-
-  - title: "Prosocial speech acts: Links to pragmatics and aging"
+   - title: "Prosocial speech acts: Links to pragmatics and aging"
     authors: <strong>Madeleine Long</strong>, Sarah E. MacPherson, Paula Rubio-Fernández
     conference_short: Dev. Psych.
     conference: Developmental Psychology, 2024. 
     pdf: https://psycnet.apa.org/doiLanding?doi=10.1037%2Fdev0001725
     code: https://osf.io/4wqcv/?view_only=41be253cda6a4d20aec601e21bb10560
     image: ./assets/img/Prosocial.png
+
+   - title: "Beyond typicality: Lexical category affects the use and processing of color words"
+    authors: <strong>Madeleine Long</strong>, Paula Rubio-Fernández
+    conference_short: Cog. Sci. 
+    conference: Cog. Sci. Proceedings 46, 2024.
+    pdf: https://escholarship.org/uc/item/58d3b3vv
+    code: https://escholarship.org/uc/item/58d3b3vv
+    image: ./assets/img/Color2.png
+
+   - title: "Multimodal communication in newly sighted children: An investigation of the relation between visual experience and pragmatic development"
+    authors: Paula Rubio-Fernández, <strong>Madeleine Long</strong>, Vishakha Shukla, Vrinda Bhatia, Anwesha Mahapatra, Chetan Ralekar, Shlomit Ben-Ami, Pawan Sinha
+    conference_short: Cog. Sci. 
+    conference: Cog. Sci. Proceedings 46, 2024.
+    pdf: https://escholarship.org/uc/item/6p44s5dv
+    code: https://escholarship.org/uc/item/6p44s5dv
+    image: ./assets/img/Prakash.png
     
   - title: "The role of cognitive control and referential complexity on adults' choice of referring expressions: Testing and expanding the referential complexity scale"
     authors: <strong>Madeleine Long</strong>, Hannah Rohde, Michelle Oraa-Ali, Paula Rubio-Fernández
