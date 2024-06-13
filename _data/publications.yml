@@ -1,9 +1,9 @@
 main:
 
-- title: Prosocial speech acts: Links to pragmatics and aging
+  - title: Prosocial speech acts: Links to pragmatics and aging
     authors: <strong>Madeleine Long</strong>, Sarah E. MacPherson, Paula Rubio-Fernández
     conference_short: Dev. Psych.
-    conference: Developmental Psychology, 2024. 
+    conference: Developmental Psychology, 2024.
     pdf: https://psycnet.apa.org/doiLanding?doi=10.1037%2Fdev0001725
     code: https://osf.io/4wqcv/?view_only=41be253cda6a4d20aec601e21bb10560
     image: ./assets/img/Prosocial.png
