@@ -1,6 +1,6 @@
 main:
 
-  - title: Prosocial speech acts:Links to pragmatics and aging
+  - title: Prosocial speech acts: Links to pragmatics and aging
     authors: <strong>Madeleine Long</strong>, Sarah E. MacPherson, Paula Rubio-Fernández
     conference_short: Dev. Psych.
     conference: Developmental Psychology, 2024.
@@ -11,7 +11,7 @@ main:
   - title: "Beyond typicality: Lexical category affects the use and processing of color words"
     authors: <strong>Madeleine Long</strong>, Paula Rubio-Fernández
     conference_short: Cog. Sci. 
-    conference: Cog. Sci. Proceedings 46, 2024. 
+    conference: Proceedings of the Annual Meeting of the Cognitive Science Society 46, 2024. 
     pdf: https://escholarship.org/uc/item/58d3b3vv
     code: https://escholarship.org/uc/item/58d3b3vv
     image: ./assets/img/Color2.png
@@ -19,7 +19,7 @@ main:
   - title: "Multimodal communication in newly sighted children: An investigation of the relation between visual experience and pragmatic development"
     authors: Paula Rubio-Fernández, <strong>Madeleine Long</strong>, Vishakha Shukla, Vrinda Bhatia, Anwesha Mahapatra, Chetan Ralekar, Shlomit Ben-Ami, Pawan Sinha
     conference_short: Cog. Sci. 
-    conference: Cog. Sci. Proceedings 46, 2024. 
+    conference: Proceedings of the Annual Meeting of the Cognitive Science Society 46, 2024. 
     pdf: https://escholarship.org/uc/item/6p44s5dv
     code: https://escholarship.org/uc/item/6p44s5dv
     image: ./assets/img/Prakash.png
