@@ -15,6 +15,7 @@ My research programme, **<i>lifespan pragmatics</i>**, addresses questions at th
 
 ## News
 
+- **[October 24, 2024]** New paper published in <a href="https://direct.mit.edu/opmi"> Open Mind</a> (<a href="https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00165/124958/Perceptual-Semantic-and-Pragmatic-Factors-Affect">Link</a>)
 - **[September 26, 2024]** Upcoming poster presentations at the British Society of Gerontology (BSG) Scotland: The Future of Ageing Research in Scotland event
 - **[September 5-7, 2024]** Poster presentations at AMLaP <a href="https://amlap2024.ed.ac.uk/"> (<a href="https://virtual.oxfordabstracts.com/#/event/31397/submission/382">Abstract 1</a>), (<a href="https://virtual.oxfordabstracts.com/#/event/31397/submission/409">Abstract 2</a>), (<a href="https://virtual.oxfordabstracts.com/#/event/31397/submission/223">Abstract 3</a>)
 - **[September 2, 2024]** Started new position as the PI of a four-year FRIPRO project funded by the Research Council of Norway
