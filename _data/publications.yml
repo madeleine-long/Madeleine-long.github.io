@@ -8,6 +8,14 @@ main:
     code: https://osf.io/4wqcv/?view_only=41be253cda6a4d20aec601e21bb10560
     image: ./assets/img/Prosocial.png
 
+  - title: Perceptual, Semantic, and Pragmatic Factors Affect the Derivation of Contrastive Inferences
+    authors: Camilo R. Ronderos, Helena Aparicio, <strong>Madeleine Long</strong>, Vishakha Shukla, Julian Jara-Ettinger, Paula Rubio-Fernández
+    conference_short: Open Mind
+    conference: Open Mind, 2024.
+    pdf: https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00165/124958/Perceptual-Semantic-and-Pragmatic-Factors-Affect
+    code: https://osf.io/apxtj/?view_only=285b127c526b4ef58491ae3d963d3735
+    image: ./assets/img/Contrastive.png
+
   - title: "Beyond typicality: Lexical category affects the use and processing of color words"
     authors: <strong>Madeleine Long</strong>, Paula Rubio-Fernández
     conference_short: Cog. Sci. 
